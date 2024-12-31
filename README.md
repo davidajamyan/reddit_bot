@@ -2,3 +2,4 @@ This is the Reddit bot I have created. It is specifically designed for the r/arm
 
 I programmed the bot to comment on posts and comments which contained keywords from my list of complimenting adjectives.
 
+![399468679-4c176525-0ffa-4a3c-a7e1-88ac5796c37b](https://github.com/user-attachments/assets/e0ff9e85-e1df-43f0-bdee-25203060de5b)
